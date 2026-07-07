@@ -1,3 +1,4 @@
+// Optimal solution for this problem as it solves this in O(n) complexity.
 class Solution {
     public int getSecondLargest(int[] arr) {
         // code here
